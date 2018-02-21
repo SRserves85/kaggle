@@ -16,3 +16,4 @@ cover
 local_breaker.py
 *.xls
 *.xlsx
+*.pem
